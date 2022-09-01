@@ -1,7 +1,3 @@
-import json
-from os.path import exists
-
-
 # display menu, get user selection
 def menu():
     print("2 - add")
